@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Joshua Phillips
+# 9/10/24
 # f-String Greeting Card 
 
 '''
@@ -19,3 +19,7 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
+name = input ('What is your first and last name? ')
+occasion = input ('What is the occasion? ')
+
+print (f'Hello {name} and congrats on your {occasion} welcome to Web and App!')
